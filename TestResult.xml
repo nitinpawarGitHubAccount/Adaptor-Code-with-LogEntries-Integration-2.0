@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\GitHub\CP_AvaTaxSDKs\Net\Adapter\Test.Avalara.AvaTax.Adapter.Vs2010.csproj" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-08-07" time="14:16:42">
+  <environment nunit-version="2.5.9.10348" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0" machine-name="AV-PN-RAHULA" user="rahul.aggarwal" user-domain="SANJUAN" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Project" name="D:\GitHub\CP_AvaTaxSDKs\Net\Adapter\Test.Avalara.AvaTax.Adapter.Vs2010.csproj" executed="True" result="Failure" success="False" time="16.362" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="D:\GitHub\CP_AvaTaxSDKs\Net\Adapter\..\bin\Test.Avalara.AvaTax.Adapter.dll" executed="True" result="Failure" success="False" time="16.344" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Failure" success="False" time="16.342" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Avalara" executed="True" result="Failure" success="False" time="16.341" asserts="0">
+                <results>
+                  <test-suite type="Namespace" name="AvaTax" executed="True" result="Failure" success="False" time="16.340" asserts="0">
+                    <results>
+                      <test-suite type="Namespace" name="Adapter" executed="True" result="Failure" success="False" time="16.338" asserts="0">
+                        <results>
+                          <test-suite type="TestFixture" name="AdapterTaxTest" executed="True" result="Failure" success="False" time="15.918" asserts="0">
+                            <results>
+                              <test-case name="Test.Avalara.AvaTax.Adapter.AdapterTaxTest.TaxIncludedTest" executed="True" result="Failure" success="False" time="15.917" asserts="2">
+                                <failure>
+                                  <message><![CDATA[  Expected: 8.6m
+  But was:  8.7m
+]]></message>
+                                  <stack-trace><![CDATA[at Test.Avalara.AvaTax.Adapter.AdapterTaxTest.TaxIncludedTest() in D:\GitHub\CP_AvaTaxSDKs\Net\Adapter\TaxSvcTest.cs:line 2611
+]]></stack-trace>
+                                </failure>
+                              </test-case>
+                            </results>
+                          </test-suite>
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

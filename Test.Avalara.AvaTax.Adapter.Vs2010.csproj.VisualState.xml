@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1065]Test.Avalara.AvaTax.Adapter.AdapterTaxTest.GetTaxTest</TopNode>
+  <SelectedNode>[0-1125]Test.Avalara.AvaTax.Adapter.AdapterTaxTest.TaxIncludedTest</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]D:\GitHub\CP_AvaTaxSDKs\Net\Adapter\Test.Avalara.AvaTax.Adapter.Vs2010.csproj" Expanded="true" />
+    <Node UniqueName="[0-1145]D:\GitHub\CP_AvaTaxSDKs\Net\Adapter\..\bin\Test.Avalara.AvaTax.Adapter.dll" Expanded="true" />
+    <Node UniqueName="[0-1146]Test" Expanded="true" />
+    <Node UniqueName="[0-1147]Test.Avalara" Expanded="true" />
+    <Node UniqueName="[0-1148]Test.Avalara.AvaTax" Expanded="true" />
+    <Node UniqueName="[0-1149]Test.Avalara.AvaTax.Adapter" Expanded="true" />
+    <Node UniqueName="[0-1060]Test.Avalara.AvaTax.Adapter.AdapterTaxTest" Expanded="true" />
+  </Nodes>
+</VisualState>

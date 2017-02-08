@@ -1,0 +1,9 @@
+D:\RamashishV_Avalara\CP_AvaTaxSDKs-Dot-Net-SDK-16.8.0.0\Net\bin\App.config
+D:\RamashishV_Avalara\CP_AvaTaxSDKs-Dot-Net-SDK-16.8.0.0\Net\bin\Test.Avalara.AvaTax.Adapter.dll.config
+D:\RamashishV_Avalara\CP_AvaTaxSDKs-Dot-Net-SDK-16.8.0.0\Net\bin\Test.Avalara.AvaTax.Adapter.dll
+D:\RamashishV_Avalara\CP_AvaTaxSDKs-Dot-Net-SDK-16.8.0.0\Net\bin\Test.Avalara.AvaTax.Adapter.pdb
+D:\RamashishV_Avalara\CP_AvaTaxSDKs-Dot-Net-SDK-16.8.0.0\Net\Adapter\obj\Debug\Test.Avalara.AvaTax.Adapter.Vs2010.csprojResolveAssemblyReference.cache
+D:\RamashishV_Avalara\CP_AvaTaxSDKs-Dot-Net-SDK-16.8.0.0\Net\Adapter\obj\Debug\Test.Avalara.AvaTax.Adapter.dll
+D:\RamashishV_Avalara\CP_AvaTaxSDKs-Dot-Net-SDK-16.8.0.0\Net\Adapter\obj\Debug\Test.Avalara.AvaTax.Adapter.pdb
+D:\Log4Net\Adapter\Adapter\obj\Debug\Test.Avalara.AvaTax.Adapter.Vs2010.csprojResolveAssemblyReference.cache
+D:\Log4Net\Adapter\Adapter\obj\Debug\Test.Avalara.AvaTax.Adapter.pdb

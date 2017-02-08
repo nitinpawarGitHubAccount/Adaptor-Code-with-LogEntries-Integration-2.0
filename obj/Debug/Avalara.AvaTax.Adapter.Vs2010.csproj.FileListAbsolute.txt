@@ -1,0 +1,16 @@
+D:\RamashishV_Avalara\CP_AvaTaxSDKs-Dot-Net-SDK-16.8.0.0\Net\Adapter\bin\Avalara.AvaTax.Adapter.xml
+D:\RamashishV_Avalara\CP_AvaTaxSDKs-Dot-Net-SDK-16.8.0.0\Net\Adapter\obj\Debug\Avalara.AvaTax.Adapter.dll
+D:\RamashishV_Avalara\CP_AvaTaxSDKs-Dot-Net-SDK-16.8.0.0\Net\Adapter\obj\Debug\Avalara.AvaTax.Adapter.pdb
+D:\RamashishV_Avalara\CP_AvaTaxSDKs-Dot-Net-SDK-16.8.0.0\Net\Adapter\bin\Avalara.AvaTax.Adapter.dll
+D:\RamashishV_Avalara\CP_AvaTaxSDKs-Dot-Net-SDK-16.8.0.0\Net\Adapter\bin\Avalara.AvaTax.Adapter.XmlSerializers.dll
+D:\RamashishV_Avalara\CP_AvaTaxSDKs-Dot-Net-SDK-16.8.0.0\Net\Adapter\bin\Avalara.AvaTax.Adapter.pdb
+D:\RamashishV_Avalara\CP_AvaTaxSDKs-Dot-Net-SDK-16.8.0.0\Net\Adapter\obj\Debug\Avalara.AvaTax.Adapter.XmlSerializers.dll
+D:\RamashishV_Avalara\CP_AvaTaxSDKs-Dot-Net-SDK-16.8.0.0\Net\Adapter\obj\Debug\Avalara.AvaTax.Adapter.Vs2010.csprojResolveAssemblyReference.cache
+D:\Log4Net\Adapter\Adapter\bin\Avalara.AvaTax.Adapter.dll.config
+D:\Log4Net\Adapter\Adapter\bin\Avalara.AvaTax.Adapter.xml
+D:\Log4Net\Adapter\Adapter\bin\Avalara.AvaTax.Adapter.dll
+D:\Log4Net\Adapter\Adapter\bin\Avalara.AvaTax.Adapter.XmlSerializers.dll
+D:\Log4Net\Adapter\Adapter\bin\Avalara.AvaTax.Adapter.pdb
+D:\Log4Net\Adapter\Adapter\obj\Debug\Avalara.AvaTax.Adapter.dll
+D:\Log4Net\Adapter\Adapter\obj\Debug\Avalara.AvaTax.Adapter.pdb
+D:\Log4Net\Adapter\Adapter\obj\Debug\Avalara.AvaTax.Adapter.XmlSerializers.dll

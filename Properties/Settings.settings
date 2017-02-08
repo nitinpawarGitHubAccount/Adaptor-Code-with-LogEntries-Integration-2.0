@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Avalara.AvaTax.Adapter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GetLogTokenApiQueryStringFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">auth={0}&amp;client={1}&amp;name={2}&amp;set={3}&amp;source={4}</Value>
+    </Setting>
+    <Setting Name="LogTokenApiUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://tgs.avalara-connect.net/api/v1/LogToken</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
